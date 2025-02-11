@@ -4,5 +4,5 @@
     "security.workspace.trust.enabled": true,
     "security.workspace.trust.startupPrompt": "never",
     "security.workspace.trust.untrustedFiles": "open",
-    "liveServer.settings.donotShowInfoMsg": false,
+    "liveServer.settings.donotShowInfoMsg": false
 }
